@@ -8,7 +8,7 @@ export const PERSONAL_DATA = {
   whatsapp: "6289691268646",
   whatsappUrl: "https://wa.me/6289691268646",
   about: "Saya, Muhammad Hasbuna, saat ini bekerja sebagai Staf Kepala Desa di Martapura, Kabupaten Banjar. Saya terbiasa menangani pelayanan publik, pengelolaan administrasi desa, serta membantu berbagai kebutuhan dan program masyarakat. Selain administrasi, saya juga mulai mempelajari vibe coding untuk mendukung digitalisasi layanan dan profil desa.",
-  heroHeadline: "Sedang mencari peluang kerja baru di bidang administrasi, pelayanan publik, maupun pekerjaan lain yang relevan dengan keterampilan saya.",
+  heroHeadline: "Sedang mencari perkerjaan kerja baru di bidang administrasi, pelayanan publik, maupun pekerjaan lain yang relevan dengan keterampilan saya.",
   heroDescription: "Saya Seorang Staf Kepala Desa dengan pengalaman dalam pelayanan publik, koordinasi administrasi, dan pengelolaan kebutuhan masyarakat desa. Terbiasa bekerja secara terstruktur, komunikatif, dan responsif dalam mendukung kelancaran berbagai program pemerintahan desa."
 };
 
@@ -92,7 +92,7 @@ export const PORTFOLIO_DATA: ProjectItem[] = [
     description: "Konsep website statis untuk informasi layanan administrasi desa kepada warga.",
     image: "/images/p1.png",
     demoLink: "https://pelayanan-desa-tangkas.vercel.app/",
-    repoLink: "#",
+    repoLink: "https://github.com/tetsuyaid72/DesaTangkas.git",
     detailLink: "#"
   },
   {
@@ -100,7 +100,7 @@ export const PORTFOLIO_DATA: ProjectItem[] = [
     description: "Sistem katalog dan promosi produk UMKM desa dengan tampilan modern, responsif, dan mudah digunakan.",
     image: "/images/p2.png",
     demoLink: "https://ayamkaget.vercel.app/",
-    repoLink: "#",
+    repoLink: "https://github.com/tetsuyaid72/Ayam-kaget.git",
     detailLink: "#"
   },
   {
@@ -108,7 +108,7 @@ export const PORTFOLIO_DATA: ProjectItem[] = [
     description: "Landing page interaktif untuk menampilkan informasi produk dan layanan dengan desain yang bersih dan profesional",
     image: "/images/p3.png",
     demoLink: "https://humaini-jewellery.vercel.app/",
-    repoLink: "#",
+    repoLink: "https://github.com/tetsuyaid72/Humaini.git",
     detailLink: "#"
   }
 ];

@@ -85,7 +85,7 @@ const Hero: React.FC = () => {
               {/* Status Badge */}
               <div className="absolute bottom-4 right-4 z-20 bg-white px-4 py-2 rounded-lg shadow-lg border border-slate-100 flex items-center gap-2 animate-bounce-slow">
                 <span className="text-2xl"></span>
-                <span className="text-sm font-bold text-navy-900">Siap Bekerja</span>
+                <span className="text-sm font-bold text-navy-900">Siap Berkerja</span>
               </div>
             </div>
           </div>
