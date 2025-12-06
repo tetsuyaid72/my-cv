@@ -43,25 +43,20 @@ const Hero: React.FC = () => {
               >
                 Hubungi via WhatsApp <ArrowRight size={18} />
               </a>
-
               <a
                 href="/CV-MuhammadHasbuna.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="w-full sm:w-auto px-8 py-3 bg-white text-navy-900 border border-navy-900 rounded-lg font-medium hover:bg-slate-100 transition flex items-center gap-2"
+                className="w-full sm:w-auto px-8 py-3 text-slate-600 font-medium hover:text-navy-900 transition flex items-center justify-center text-center gap-2"
               >
                 Download CV <Download size={18} />
               </a>
-
               <a
-                href="https://mail.google.com/mail/?view=cm&fs=1&to=hasbunstore72@gmail.com"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="w-full sm:w-auto px-8 py-3 text-slate-600 font-medium hover:text-navy-900 transition flex items-center gap-2"
+                href="mailto:hasbunstore72@gmail.com"
+                className="w-full sm:w-auto px-8 py-3 text-slate-600 font-medium hover:text-navy-900 transition flex items-center justify-center text-center gap-2"
               >
                 Email Saya <Mail size={18} />
               </a>
-
             </div>
           </div>
 
