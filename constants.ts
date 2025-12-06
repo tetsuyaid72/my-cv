@@ -3,12 +3,12 @@ import { EducationItem, ExperienceItem, SkillItem, SoftSkillItem, ProjectItem } 
 export const PERSONAL_DATA = {
   name: "Muhammad Hasbuna",
   role: "Staf Kepala Desa",
-  location: "Martapura, Kab. Banjar",
+  location: "Martapura Barat, Kab. Banjar",
   email: "hasbunastore72@gmail.com",
   whatsapp: "6289691268646",
   whatsappUrl: "https://wa.me/6289691268646",
   about: "Saya, Muhammad Hasbuna, saat ini bekerja sebagai Staf Kepala Desa di Martapura, Kabupaten Banjar. Saya terbiasa menangani pelayanan publik, pengelolaan administrasi desa, serta membantu berbagai kebutuhan dan program masyarakat. Selain administrasi, saya juga mulai mempelajari vibe coding untuk mendukung digitalisasi layanan dan profil desa.",
-  heroHeadline: "Sedang mencari perkerjaan kerja baru di bidang administrasi, pelayanan publik, maupun pekerjaan lain yang relevan dengan keterampilan saya.",
+  heroHeadline: "Sedang mencari perkerjaan baru bidang administrasi, pelayanan publik, maupun pekerjaan lain yang relevan dengan keterampilan saya.",
   heroDescription: "Saya Seorang Staf Kepala Desa dengan pengalaman dalam pelayanan publik, koordinasi administrasi, dan pengelolaan kebutuhan masyarakat desa. Terbiasa bekerja secara terstruktur, komunikatif, dan responsif dalam mendukung kelancaran berbagai program pemerintahan desa."
 };
 
