@@ -64,8 +64,8 @@ export const EXPERIENCE_DATA: ExperienceItem[] = [
 export const HARD_SKILLS: SkillItem[] = [
   { name: "Microsoft Word", level: 85 },
   { name: "Canva", level: 80 },
-  { name: "Microsoft Excel", level: 60 },
-  { name: "Vibe Coding (Web Basics)", level: 60 },
+  { name: "Microsoft Excel", level: 75 },
+  { name: "Vibe Coding (Web Basics)", level: 70 },
 ];
 
 export const SOFT_SKILLS: SoftSkillItem[] = [
