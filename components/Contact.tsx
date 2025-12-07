@@ -25,7 +25,7 @@ const Contact: React.FC = () => {
                             <Phone size={20} /> Hubungi (WhatsApp)
                         </a>
                         <a
-                            href="mailto:hasbunstore72@gmail.com"
+                            href="mailto:hasbunastore72@gmail.com"
                             className="w-full md:w-auto px-8 py-4 bg-white/10 backdrop-blur-sm border border-white/20 text-white rounded-xl font-semibold hover:bg-white/20 transition-colors flex items-center justify-center gap-2"
                         >
                             <Mail size={20} /> Email Saya

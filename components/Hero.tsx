@@ -65,7 +65,7 @@ const Hero: React.FC = () => {
 
                 {/* Email */}
                 <a
-                  href="mailto:hasbunstore72@gmail.com"
+                  href="mailto:hasbunastore72@gmail.com"
                   className="px-8 py-3 text-slate-600 font-medium hover:text-navy-900 transition flex items-center justify-center gap-2"
                 >
                   Email Saya <Mail size={18} />
